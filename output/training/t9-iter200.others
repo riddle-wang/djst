@@ -1,0 +1,19 @@
+data_dir=/Users/wangruidong/Documents/XcodeWorkSpace/dJST/input/training/
+result_dir=/Users/wangruidong/Documents/XcodeWorkSpace/dJST/output/training/
+sentiment_lexicon_dir=/Users/wangruidong/Documents/XcodeWorkSpace/dJST/input/sentiment-lexicon/chinese/
+
+-------------------- Corpus statistics -----------------------
+numDocs=22
+corpusSize=898
+aveDocLength=40
+vocabSize=4354
+
+---------------------- Model settings -----------------------
+numSentiLabs=3
+numTopics=10
+liter=200
+savestep=100
+updateParaStep=40
+_alpha=0.010000
+_beta=0.010000
+_gamma=0.010000

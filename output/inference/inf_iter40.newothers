@@ -1,0 +1,21 @@
+model_dir=/Users/wangruidong/Documents/XcodeWorkSpace/dJST/output/training/
+model_name=t10-iter200
+data_dir=/Users/wangruidong/Documents/XcodeWorkSpace/dJST/input/inference/
+datasetFile=1.txt
+result_dir=/Users/wangruidong/Documents/XcodeWorkSpace/dJST/output/inference/
+niters-inf=100
+savestep-inf=20
+
+------------------ Testset ** 1.txt ** statistics ----------------------
+newNumDocs=31
+newCorpusSize=1446
+newVocabSize=791
+numNewWords=0
+aveDocLength=46
+
+------------------ Loaded model settings ----------------------
+numSentiLabs=3
+numTopics=10
+numDocs=67
+corpusSize=0
+vocabSize=4354
